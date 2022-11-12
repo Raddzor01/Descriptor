@@ -1,2 +1,8 @@
-# Descriptor
-Decode encrypted math expression.
+ucode-part-of-the-matrix
+ucode IT academy | Part of the Matrix
+
+Task
+Create a program that decodes all valid variations of an encrypted math expression.
+
+Skills
+Problem Solving, Analysis, Reasoning & Argumentation, Agility & Adaptability, Self-Management, UNIX, Git, Procedural Programming, Algorithms, C, Communication.
