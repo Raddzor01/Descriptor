@@ -1,8 +1,8 @@
-ucode-part-of-the-matrix
+# ucode-part-of-the-matrix
 ucode IT academy | Part of the Matrix
 
-Task
+## Task
 Create a program that decodes all valid variations of an encrypted math expression.
 
-Skills
+## Skills
 Problem Solving, Analysis, Reasoning & Argumentation, Agility & Adaptability, Self-Management, UNIX, Git, Procedural Programming, Algorithms, C, Communication.
